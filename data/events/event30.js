@@ -1,0 +1,29 @@
+const image00001 = {
+  source: "imgix-six",
+  path: "https://activism2.s3.eu-west-2.amazonaws.com/teaser-poster.jpeg",
+  w: 1400,
+  h: 850,
+  alt: "Freedom Fest 2024"
+};
+
+const event30 = {
+  handle: "Freedom Fest 2024",
+  image: image00001,
+  coverMode: "IMAGE_TEXT",
+    date:"2024-08-02",
+    time: {
+        start: "13:00",
+        end: "23:30"
+    },
+  location: "The Gate Hangs Well, Syston, Leicester",
+  title: "Freedom Fest 2024",
+  shortDescription: "Freedom Fest 2024",
+  //tickets_link: "https://billetto.co.uk/e/time-of-the-signs-uk-tour-leicester-tickets-872426",
+  //buy_tickets_text: "Buy Tickets",
+  use_border: false,
+  
+  };
+
+
+
+export default event30
