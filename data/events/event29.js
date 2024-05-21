@@ -18,8 +18,8 @@ const event29 = {
   location: "The Barnyard Comedy Club, Upton, Nuneaton",
   title: "The Daz Band - Album Tour - With Out of Karma",
   shortDescription: "The Daz Band - Album Tour - With Out of Karma",
-  tickets_link: "https://billetto.co.uk/e/time-of-the-signs-uk-tour-leicester-tickets-872426",
-  buy_tickets_text: "Buy Tickets",
+  //tickets_link: "https://billetto.co.uk/e/time-of-the-signs-uk-tour-leicester-tickets-872426",
+  //buy_tickets_text: "Buy Tickets",
   use_border: false,
   
   };

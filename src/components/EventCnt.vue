@@ -1,9 +1,27 @@
 <template>
   <div class="event">
 
-    <!-- {{  props.event }} -->
+    <div v-if="props.event.tickets_link">
 
-    <img :src="props.event.image.path" />
+      <div>
+        <a class="uppercase font-bold text-black	" :href="props.event.tickets_link" target="_blank">
+          {{ props.event.buy_tickets_text }}
+        </a>
+      </div>
+
+
+      <a :href="props.event.tickets_link" target="_blank">
+        <img :src="props.event.image.path" />
+      </a>
+
+    </div>
+
+    <div v-else>
+      
+      <img :src="props.event.image.path" />
+
+    </div>
+
   </div>
 </template>
 
@@ -38,7 +56,5 @@ li {
   display: inline-block;
   margin: 0 10px;
 }
-a {
-  color: #42b983;
-}
+
 </style>

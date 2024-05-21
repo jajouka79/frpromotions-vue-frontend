@@ -18,8 +18,8 @@ const event25 = {
   location: "The Barnyard Comedy Club, Upton, Nuneaton",
   title: "Stand-up Comedy Sunday - Steve Hughes, Nicolas De Santos, Guest Speakers",
   shortDescription: "Stand-up Comedy Sunday - Steve Hughes, Nicolas De Santos, Guest Speakers",
-  tickets_link: "https://tickets.heart-events.co.uk",
-  buy_tickets_text: "Buy Tickets",
+  //tickets_link: "https://tickets.heart-events.co.uk",
+  //buy_tickets_text: "Buy Tickets",
   use_border: true,
   
   };

@@ -18,8 +18,8 @@ const event30 = {
   location: "The Gate Hangs Well, Syston, Leicester",
   title: "Freedom Fest 2024",
   shortDescription: "Freedom Fest 2024",
-  //tickets_link: "https://billetto.co.uk/e/time-of-the-signs-uk-tour-leicester-tickets-872426",
-  //buy_tickets_text: "Buy Tickets",
+  tickets_link: "https://app.workshop-angel.com/form.php?h=1&t=0&e=0e59fb1a199e76cc",
+  buy_tickets_text: "Buy Tickets For Freedom Fest",
   use_border: false,
   
   };

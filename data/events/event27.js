@@ -18,7 +18,7 @@ const event26 = {
   location: "The Barnyard Comedy Club, Upton, Nuneaton",
   title: "Stand-up Comedy Sunday - Sean Roberts, Jonny Cole, Abi Roberts, Carl Vernon",
   shortDescription: "Stand-up Comedy Sunday - Sean Roberts, Jonny Cole, Abi Roberts, Carl Vernon",
-  tickets_link: "https://tickets.heart-events.co.uk",
+  //tickets_link: "https://tickets.heart-events.co.uk",
   buy_tickets_text: "Buy Tickets",
   use_border: true,
   

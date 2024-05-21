@@ -18,8 +18,8 @@ const event22 = {
   location: "Syston & District Social Club",
   title: "Freedom Fest 2023, Syston, Leicester",
   shortDescription: "Freedom Fest 2023, Syston, Leicester",
-  tickets_link: "https://www.eventbrite.co.uk/e/freedom-fest-syston-leicester-tickets-632687002857",
-  buy_tickets_text: "Buy Freedom Fest Tickets",
+  //tickets_link: "https://www.eventbrite.co.uk/e/freedom-fest-syston-leicester-tickets-632687002857",
+  //buy_tickets_text: "Buy Freedom Fest Tickets",
   use_border: true,
 
 };
