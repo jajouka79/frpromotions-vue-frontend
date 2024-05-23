@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/teaser-poster.jpeg",
+  path: "https://activism2.s3.eu-west-2.amazonaws.com/Freedom+Fest+Poster+24-dev1.png",
   w: 1400,
   h: 850,
   alt: "Freedom Fest 2024"

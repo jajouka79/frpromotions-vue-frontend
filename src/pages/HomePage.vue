@@ -7,6 +7,9 @@
           <EventsCnt />
 
         </div>
+
+        <FooterCnt />
+
       </div>
   </div>
 </template>
@@ -17,9 +20,3 @@ import HeaderCnt from '../components/HeaderCnt.vue'
 
 
 </script>
-
-<style scoped>
-
-
-
-</style>
