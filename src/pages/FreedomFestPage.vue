@@ -24,29 +24,25 @@
             </div>
 
 
-        Educational speakers and conscious music artists at The Gate Hangs Well Pub grounds in Syston, Leicester.
+            <div class="p-3">
+                <p class="pb-3">We are pleased to announce that this is the 3rd annual Freedom Fest, 2023.</p>
+                
+                <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in the beautiful grounds of the riverside Pub
+                     The Gate Hangs Well in Syston, Leicestershire.</p>
+
+                <p class="pb-3">People gather to seek information on the political, financial, health and social issues facing us in these tumultuous times,
+                     discuss possible solutions and to celebrate the rich resistance culture that has developed over the past few years.</p>
+                
+                <p class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</p>
+
+                <h2 class="font-bold">CAMPING</h2>
+                <p class="pb-3">Campers can set up from 10am on Friday 2nd August.</p>
+                <p class="pb-3">Outdoor toilets and water supply provided and the pub facilities will be available during opening hours.</p>
 
 
-Send me an email at frpromotions@protonmail.com for alternative payment methods.
+                <p class="pb-3"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
 
-In August last year, Syston & District Social Club hosted the first Leicester Freedom Fest. People gathered to seek information on the political, financial, health and social issues facing us in these tumultuous times and discuss possible solutions and to celebrate the rich resistance culture that has developed over the past few years.
-
-We are pleased to announce that this year Syston & District Social Club is hosting Freedom Fest, 2023. We have a variety of engaging and informative speakers and an A-list line-up of conscious music artists, DJs, camping, stalls.
-
-CAMPING
-UPDATE
-Campers can set up from 10am on Friday 11th August.
-Camping is available from Friday 11th & Saturday 12th August.
-The campsite is in the grounds of the nearby Gate Hangs Well pub which is one mile away from the festival venue Syston & District Social Club.
-
-Gate Hangs Well, Fosse Way, Syston, LE7 1NH
-Outdoor toilets and water supply provided and the pub facilities will be available during opening hours.
-
-Tents & vans must vacate from the campsite by 11am Sunday 13th August.
-For those wanting to then stay for the acts on the Sunday there are places to park near the venue.
-
-The prices are £10 per night for tents/vans.  
-
+            </div>
 
             <div class="lg:w-96 m-auto">
                 <a :href="buyTicketsUrl" target="_blank">
