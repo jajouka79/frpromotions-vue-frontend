@@ -25,7 +25,7 @@
 
 
             <div class="p-3 text-center">
-                <p class="pb-3">We are pleased to announce that this is the 3rd annual Freedom Fest, 2023.</p>
+                <p class="pb-3">We are pleased to announce the the 3rd annual Freedom Fest!</p>
                 
                 <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in the beautiful grounds of the riverside Pub
                      The Gate Hangs Well in Syston, Leicestershire.</p>
