@@ -3,7 +3,7 @@
 
     <div v-if="props.event.tickets_link">
       <!-- <button @click="pushTo('/ff')">Redirect to "ff"</button> -->
-      <div>
+      <div class="flex justify-center">
         <a class="cursor-pointer text-xl uppercase font-bold text-black" @click="pushTo('/ff')" target="_blank">
           {{ props.event.buy_tickets_text }}
         </a>
@@ -29,11 +29,7 @@ import { useRouter } from 'vue-router'
 
 const router = useRouter()
 
-// const pushTo = (route) => { router.push(route).catch(err => {})}
 const pushTo = (route) => { router.push(route).catch(err => {})}
-
-
-router.push({ name: 'UserDetails', params: { id: nextId } })
 
 const message = inject('message')
 
