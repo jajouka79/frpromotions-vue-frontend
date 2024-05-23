@@ -1,5 +1,9 @@
 <template>
   <div class="events mb-12" v-for="event in events" :key="event.name">
+    <!-- <button @click="goToFreedomFest">Go to Freedom Fest!!!!</button>
+     -->
+    
+
     <EventCnt class="event" :event=event />
   </div>
 </template>
@@ -17,6 +21,13 @@ const globals = inject('globals')
 
 
 console.log("globals", globals)
+
+
+// const goToFreedomFest = () => {
+//   this.$router.push('/ff')
+// }
+
+
 
 //import { provide } from 'vue'
 

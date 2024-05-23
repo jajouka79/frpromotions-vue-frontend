@@ -2,13 +2,14 @@
   <div class="event">
 
     <div v-if="props.event.tickets_link">
+      <!-- <button @click="pushTo('/ff')">Redirect to "ff"</button> -->
       <div>
-        <a class="text-xl uppercase font-bold text-black" :href="props.event.tickets_link" target="_blank">
+        <a class="cursor-pointer text-xl uppercase font-bold text-black" @click="pushTo('/ff')" target="_blank">
           {{ props.event.buy_tickets_text }}
         </a>
       </div>
 
-      <a :href="props.event.tickets_link" target="_blank">
+      <a class="cursor-pointer" @click="pushTo('/ff')" target="_blank">
         <img :src="props.event.image.path" />
       </a>
     </div>
@@ -22,8 +23,17 @@
 
 <script setup>
 
-import { defineProps, defineEmits } from 'vue'
+import { defineProps } from 'vue'
 import { inject } from 'vue'
+import { useRouter } from 'vue-router'
+
+const router = useRouter()
+
+// const pushTo = (route) => { router.push(route).catch(err => {})}
+const pushTo = (route) => { router.push(route).catch(err => {})}
+
+
+router.push({ name: 'UserDetails', params: { id: nextId } })
 
 const message = inject('message')
 
@@ -32,24 +42,7 @@ const props = defineProps({
   event: Object
 })
 
-const emit = defineEmits(['change', 'delete'])
-console.log(emit);
 
 
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-</style>
