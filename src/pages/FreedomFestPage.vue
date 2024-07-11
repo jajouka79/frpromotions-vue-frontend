@@ -27,6 +27,7 @@
 
 
             <div class="p-3 text-center">
+                <p class="pb-3"><b>The finalised schedule will be available very soon</b></p>
                 <p class="pb-3"><b>More updates coming soon, keep checking back ....</b></p>
 
                 <p class="pb-3">We are pleased to announce the the 3rd annual Freedom Fest!</p>
