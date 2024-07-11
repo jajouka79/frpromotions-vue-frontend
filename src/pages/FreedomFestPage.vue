@@ -68,7 +68,7 @@
 
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
-                    <a :href="photo" target="_blank">
+                    <a :href="`${globals.s3Bucket}/${photo}`" target="_blank">
                         <!-- <img :src="photo" /> -->
                         <Image :path="`${photo}`" />
                     </a>
@@ -91,6 +91,9 @@
  
 import ButtonCnt from '../components/ButtonCnt.vue' ;
 import Image from '../components/ImageCnt.vue' ;
+import { inject } from 'vue'
+
+const globals = inject('globals')
 
 const buyText = "Buy Freedom Fest Tickets";
  const gotoFrText = "Go To FR Promotions";
