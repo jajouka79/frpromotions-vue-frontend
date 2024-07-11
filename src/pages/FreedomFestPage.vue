@@ -23,8 +23,6 @@
                     <ButtonCnt class="text-uppercase w-full text-3xl" :text="buyText.toUpperCase()" />
                 </a>
             </div>
-       
-
 
             <div class="p-3 text-center">
                 <p class="pb-3"><b>The finalised schedule will be available very soon</b></p>
@@ -41,6 +39,10 @@
                 <p class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</p>
 
                 <p class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions and much more.</p>
+                
+                <p class="pb-3">Firepit, fire display, singarounds, drum circles, so bring your musical instruments!</p>
+
+                <p class="pb-3">The sound from the marquee stops at 12:30</p>
 
                 <p class="pb-3">Well behaved dogs on leads are welcome</p>
 
@@ -53,9 +55,7 @@
 
                 <p class="pb-3"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
 
-
             </div>
-
 
             <img :src="posterUrl" />
 
