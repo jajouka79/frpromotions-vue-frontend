@@ -27,9 +27,11 @@
 
 
             <div class="p-3 text-center">
+                <p class="pb-3"><b>More updates coming soon, keep checking back ....</b></p>
+
                 <p class="pb-3">We are pleased to announce the the 3rd annual Freedom Fest!</p>
                 
-                <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in the beautiful grounds of the riverside Pub
+                <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in a field just over the road from the riverside pub
                      The Gate Hangs Well in Syston, Leicestershire.</p>
 
                 <p class="pb-3">People gather to seek information on the political, financial, health and social issues facing us in these tumultuous times,
@@ -37,10 +39,19 @@
                 
                 <p class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</p>
 
+                <p class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions and much more.</p>
+
+                <p class="pb-3">Well behaved dogs on leads are welcome</p>
+
+
                 <h2 class="font-bold">CAMPING</h2>
+
                 <p class="pb-3">Campers can set up from 10am on Friday 2nd August.</p>
-                <p class="pb-3">Outdoor toilets and water supply provided and the pub facilities will be available during opening hours.</p>
+                
+                <p class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</p>
+
                 <p class="pb-3"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
+
 
             </div>
 
