@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/oct-23-poster.jpeg",
+  path: "oct-23-poster.jpeg",
   w: 1080,
   h: 1080,
   alt: "Stand-up Comedy Sunday - Lewis Schaffer, Geoff Buys Cars, Frank Sanazi, Chris Sky"

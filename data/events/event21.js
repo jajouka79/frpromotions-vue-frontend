@@ -1,6 +1,6 @@
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/aj-poster-3-events.jpeg",
+    path: "aj-poster-3-events.jpeg",
     w: 940,
     h: 1853,
     alt: "AJ Roberts - Mission Consciousness"

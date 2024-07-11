@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/barnyard-steve-hughes.jpeg",
+  path: "barnyard-steve-hughes.jpeg",
   w: 1080,
   h: 1080,
   alt: "Stand-up Comedy Sunday - Steve Hughes, Nicolas De Santos, Guest Speakers"
@@ -24,6 +24,6 @@ const event25 = {
   
   };
 
-//https://activism2.s3.eu-west-2.amazonaws.com/oct-23-poster.jpeg
+//oct-23-poster.jpeg
 
 export default event25

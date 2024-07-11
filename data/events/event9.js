@@ -4,7 +4,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-winter.jpg",
+    path: "jff-winter.jpg",
     w: 1080,
     h: 1080,
     alt: "JFF Winter"

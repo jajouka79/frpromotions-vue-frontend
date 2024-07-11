@@ -1,9 +1,8 @@
 <template>
-  <div class="events mb-12" v-for="event in events" :key="event.name">
+  <div class="events mb-12" v-for="(event, index) in events" :key="index">
     <!-- <button @click="goToFreedomFest">Go to Freedom Fest!!!!</button>
      -->
     
-
     <EventCnt class="event" :event=event />
   </div>
 </template>

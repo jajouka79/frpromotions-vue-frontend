@@ -7,14 +7,14 @@
         <div class="inline">
             <div class="mr-2 ">
                 <a target="_blank" href="https://linktr.ee/frpromotions">
-                    <Button class="text-uppercase" text="Links" />
+                    <Button class="text-uppercase" :text="props.linkText.toUpperCase()" />
                 </a>
             </div>
         </div>
         <div class="inline">
             <div class="mr-2">
                 <a target="_blank" href="https://linktr.ee/frpromotions">
-                    <Button text="Contact" />
+                    <Button class="text-uppercase" :text="props.contactText.toUpperCase()" />
                 </a>            
             </div>
         </div>
@@ -30,6 +30,7 @@
 </template>
 <script setup>
 import Button from "./ButtonCnt.vue";
+import { defineProps } from 'vue'
 
 //const FILENAME = '../../email.txt'
 
@@ -46,11 +47,20 @@ const makeTextFile = (text) => {
         window.URL.revokeObjectURL(textFile);
     }
 
+
     textFile = window.URL.createObjectURL(data);
 
     // returns a URL you can use as a href
     return textFile;
+
 }
+
+const props = defineProps({
+    linkText: String,
+    contactText: String
+});
+
+//console.log(props);
 
 makeTextFile('test text!!!');
 

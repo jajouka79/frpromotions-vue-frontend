@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/mark-attwood-syston-july-2023-small.jpeg",
+  path: "mark-attwood-syston-july-2023-small.jpeg",
   w: 1200,
   h: 1697,
   alt: "Mark Attwood - 7th July, 2023 - Syston Social Club, Leicester"

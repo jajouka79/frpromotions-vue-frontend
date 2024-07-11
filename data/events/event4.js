@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/dr-teck-2022-03-02.jpg",
+    path: "dr-teck-2022-03-02.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"

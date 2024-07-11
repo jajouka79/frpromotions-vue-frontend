@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/barnyard-comedy-jonny-alistair.jpg",
+  path: "barnyard-comedy-jonny-alistair.jpg",
   w: 679,
   h: 960,
   alt: "Stand-up Comedy Sunday - Allistair Williams, Jonny Cole, Tania Edwards"

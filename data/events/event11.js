@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/halloween-2022-03-31.jpg",
+    path: "halloween-2022-03-31.jpg",
     w: 581,
     h: 825,
     alt: "Halloween Party"

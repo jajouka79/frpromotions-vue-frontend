@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/sitp-birthday-2022-04-02+14.00.15.jpg",
+    path: "sitp-birthday-2022-04-02+14.00.15.jpg",
     w: 969,
     h: 1280,
     alt: "SITP - Birthday"

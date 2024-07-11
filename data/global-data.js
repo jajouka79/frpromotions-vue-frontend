@@ -1,5 +1,6 @@
 const globalData = {
     global_data_works_ok: "yes it does!",
+    s3Bucket: "https://activism2.s3.eu-west-2.amazonaws.com",
     socials: {
         twitter: {
             url: "https://twitter.com/madebysix",

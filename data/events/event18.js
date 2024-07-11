@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/re-platform-poster.jpeg",
+    path: "re-platform-poster.jpeg",
     w: 2480,
     h: 3508,
     alt: "Re-Platform"

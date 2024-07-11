@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/daz-band-syston-poster2.jpeg",
+  path: "daz-band-syston-poster2.jpeg",
   w: 1200,
   h: 1697,
   alt: "The Daz Band - Album Tour - With Out of Karma"

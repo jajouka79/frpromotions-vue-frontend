@@ -4,7 +4,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/northern-soul-2022-03-31+20.55.23.jpg",
+    path: "northern-soul-2022-03-31+20.55.23.jpg",
     w: 728,
     h: 1036,
     alt: "Northern Soul"

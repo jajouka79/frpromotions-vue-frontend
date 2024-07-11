@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/g300-2022-04-01+14.39.34.jpg",
+    path: "g300-2022-04-01+14.39.34.jpg",
     w: 771,
     h: 752,
     alt: "Guardians 300"

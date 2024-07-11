@@ -1,6 +1,6 @@
 const image00001 = {
   source: "imgix-six",
-  path: "https://activism2.s3.eu-west-2.amazonaws.com/Dec-Barnyard-comedy-club-square-1200.jpeg",
+  path: "Dec-Barnyard-comedy-club-square-1200.jpeg",
   w: 1080,
   h: 1080,
   alt: "Stand-up Comedy Sunday - Sean Roberts, Jonny Cole, Abi Roberts, Carl Vernon"

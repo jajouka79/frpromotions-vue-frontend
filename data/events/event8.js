@@ -4,7 +4,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-dog-gun-2022-03-26+12.56.50.jpg",
+    path: "jff-dog-gun-2022-03-26+12.56.50.jpg",
     w: 1120,
     h: 1280,
     alt: "FR Promotions"

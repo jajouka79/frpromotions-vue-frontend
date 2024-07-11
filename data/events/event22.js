@@ -1,6 +1,6 @@
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/Freedom+Fest+Poster+23+V2-dev1-2.jpeg",
+    path: "Freedom+Fest+Poster+23+V2-dev1-2.jpeg",
     w: 2000,
     h: 2829,
     alt: "Freedom Fest 2023, Syston, Leicester"

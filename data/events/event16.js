@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/aj-roberts-mansah-fr-promotions-dev1.jpeg",
+    path: "aj-roberts-mansah-fr-promotions-dev1.jpeg",
     w: 1080,
     h: 1220,
     alt: "AJ Roberts"

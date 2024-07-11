@@ -3,7 +3,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/gold-2022-02-23.jpg",
+    path: "gold-2022-02-23.jpg",
     w: 902,
     h: 1280,
     alt: "Secure Your Wealth With Precious Metals"

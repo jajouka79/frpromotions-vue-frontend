@@ -2,7 +2,7 @@
 
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/d&g-2021-08-07.jpg",
+    path: "d&g-2021-08-07.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"

@@ -11,7 +11,7 @@ import {jsx} from "@emotion/core";
 
 const image00015 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/g300-2022-04-01+14.39.34.jpg",
+    path: "g300-2022-04-01+14.39.34.jpg",
     w: 771,
     h: 752,
     alt: "G300"
@@ -22,7 +22,7 @@ const image00015 = {
 /*
 const image00001 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/fr-promotions-logo-dev1.png",
+    path: "fr-promotions-logo-dev1.png",
     w: 1610,
     h: 1680,
     alt: "FR Promotions"
@@ -30,7 +30,7 @@ const image00001 = {
 
 const image00002 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-dog-gun-2022-03-26+12.56.50.jpg",
+    path: "jff-dog-gun-2022-03-26+12.56.50.jpg",
     w: 1120,
     h: 1280,
     alt: "FR Promotions"
@@ -39,7 +39,7 @@ const image00002 = {
 
 const image00003 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-winter.jpg",
+    path: "jff-winter.jpg",
     w: 1080,
     h: 1080,
     alt: "JFF Winter"
@@ -48,7 +48,7 @@ const image00003 = {
 
 const image00004 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/northern-soul-2022-03-31+20.55.23.jpg",
+    path: "northern-soul-2022-03-31+20.55.23.jpg",
     w: 728,
     h: 1036,
     alt: "Northern Soul"
@@ -57,7 +57,7 @@ const image00004 = {
 
 const image00005 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/northern-soul-2022-03-31+20.55.39.jpg",
+    path: "northern-soul-2022-03-31+20.55.39.jpg",
     w: 905,
     h: 1280,
     alt: "JFF Winter"
@@ -66,7 +66,7 @@ const image00005 = {
 
 const image00006 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/defiant-billy-bday-2022-03-31+20.52.34.jpg",
+    path: "defiant-billy-bday-2022-03-31+20.52.34.jpg",
     w: 1080,
     h: 1080,
     alt: "JFF Winter"
@@ -76,7 +76,7 @@ const image00006 = {
 
 const image00007 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/halloween-2022-03-31+21.27.53.jpg",
+    path: "halloween-2022-03-31+21.27.53.jpg",
     w: 581,
     h: 825,
     alt: "JFF Winter"
@@ -84,7 +84,7 @@ const image00007 = {
 
 const image00008 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/gold-2022-03-31+22.01.38.jpg",
+    path: "gold-2022-03-31+22.01.38.jpg",
     w: 902,
     h: 1280,
     alt: "Gold"
@@ -93,7 +93,7 @@ const image00008 = {
 
 const image00009 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-2022-04-01+14.40.00.jpg",
+    path: "jff-2022-04-01+14.40.00.jpg",
     w: 902,
     h: 1280,
     alt: "JFF"
@@ -103,7 +103,7 @@ const image00009 = {
 
 const image00010 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/d%26g-2022-04-01+14.42.09.jpg",
+    path: "d%26g-2022-04-01+14.42.09.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"
@@ -114,7 +114,7 @@ const image00010 = {
 
 const image00011 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-2022-04-01+14.40.39.jpg",
+    path: "jff-2022-04-01+14.40.39.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"
@@ -125,7 +125,7 @@ const image00011 = {
 
 const image00012 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/jff-2022-04-01+14.40.58.jpg",
+    path: "jff-2022-04-01+14.40.58.jpg",
     w: 902,
     h: 1280,
     alt: "Guardians300"
@@ -137,7 +137,7 @@ const image00012 = {
 
 const image00013 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/d%26g-2022-04-01+14.42.26.jpg",
+    path: "d%26g-2022-04-01+14.42.26.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"
@@ -147,7 +147,7 @@ const image00013 = {
 
 const image00014 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/dr-teck-2022-04-01+14.42.47.jpg",
+    path: "dr-teck-2022-04-01+14.42.47.jpg",
     w: 902,
     h: 1280,
     alt: "D&G"
@@ -156,7 +156,7 @@ const image00014 = {
 
 const image00015 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/g300-2022-04-01+14.39.34.jpg",
+    path: "g300-2022-04-01+14.39.34.jpg",
     w: 771,
     h: 752,
     alt: "G300"
@@ -166,7 +166,7 @@ const image00015 = {
 
 const image00016 = {
     source: "imgix-six",
-    path: "https://activism2.s3.eu-west-2.amazonaws.com/sitp-birthday-2022-04-02+14.00.15.jpg",
+    path: "sitp-birthday-2022-04-02+14.00.15.jpg",
     w: 969,
     h: 1280,
     alt: "SITP - Birthday"
