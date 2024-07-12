@@ -25,10 +25,10 @@
             </div>
 
             <div class="p-3 text-center">
-                <p class="pb-3"><b>The finalised schedule will be available very soon</b></p>
+                <p class="pb-3 uppercase mt-8"><b>The Schedule is Now Available</b></p>
                 <p class="pb-3"><b>More updates coming soon, keep checking back ....</b></p>
 
-                <p class="pb-3">We are pleased to announce the the 3rd annual Freedom Fest!</p>
+                <p class="pb-3 mt-8">We are pleased to announce the the 3rd annual Freedom Fest!</p>
                 
                 <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in a field just over the road from the riverside pub
                      The Gate Hangs Well in Syston, Leicestershire.</p>
@@ -49,11 +49,19 @@
                 <p class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
 
 
+                <h2 class="text-xl my-8 font-bold">PARKING</h2>
+
+                <p class="pb-3">There's a field for car parking, the field closest to the entrance.</p>
+
+
+
                 <h2 class="text-xl my-8 font-bold">CAMPING</h2>
 
                 <p class="pb-3">Campers can set up from 10am on Friday 2nd August.</p>
-                
+
                 <p class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</p>
+
+
 
                 <div class="font-bold text-xl my-8">SCHEDULE</div>
 
@@ -154,7 +162,15 @@
 
 
 
+            <div class="mb-8 ">
+                <iframe class="w-full" width="560" height="315" src="https://www.youtube.com/embed/09OcMmCP-j0?si=tqaYjnd571VUA-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
 
+
+
+            <div class="mb-8">
+                <iframe class="w-full" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
                     <a :href="`${globals.s3Bucket}/${photo}`" target="_blank">
@@ -209,9 +225,6 @@ const buyText = "Buy Freedom Fest Tickets";
   'DSC_0009.jpg',
   'DSC_0199.jpg',
   'gate8.jpeg',
-
-
-  'DSC_0560.jpg',
   'DSC_0549.jpg',
   'DSC_0543.jpg',
   'DSC_0543b.jpg',
