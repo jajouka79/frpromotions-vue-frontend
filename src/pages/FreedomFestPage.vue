@@ -46,25 +46,114 @@
 
                 <p class="pb-3">Well behaved dogs on leads are welcome</p>
 
+                <p class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
 
-                <h2 class="font-bold">CAMPING</h2>
+
+                <h2 class="text-xl my-8 font-bold">CAMPING</h2>
 
                 <p class="pb-3">Campers can set up from 10am on Friday 2nd August.</p>
                 
                 <p class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</p>
 
-                <p class="pb-3"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
+                <div class="font-bold text-xl my-8">SCHEDULE</div>
+
+                <div>
+
+                    <h3 class="font-bold">FRIDAY 2ND AUGUST</h3>
+
+                    <div>17:00-18:00</div>
+                    <div class="font-bold">Dave Voce</div>
+                    <div>Survival gardening</div>
+                    <div>18:15-19:15</div>
+                    <div class="font-bold">Dr Jo Whittaker</div>
+                    <div>Interactive talk from health expert “The Crystals & Water Experience"</div>
+                    <div>19:30-20:30</div>
+                    <div class="font-bold">Dog & Gun Band</div>
+                    <div>House band from the Dog & Gun pub</div>
+                    <div>20:45-21:45</div>	
+                    <div class="font-bold">Jack & Rhett</div>
+                    <div>Soulful songs from two Leicester music legends</div>
+                    <div>21:45-22:15</div>
+                    <div class="font-bold">break</div>	
+                    <div>22:15-23:15</div>
+                    <div class="font-bold">Matt Hoy</div>
+                    <div>Former singer of UB40</div>
+                    <div>23:15-00:30</div>
+                    <div class="font-bold">DJ Rasta Mikey</div>
+                    <div>Reggae vibes</div>
+
+                </div>
+
+
+                <div class="my-8">
+                    <h3 class="font-bold">SATURDAY 3RD AUGUST</h3>
+
+                    <div>12:00-12:10</div>	
+                    <div class="font-bold">Mick the Ticket</div>	
+                    <div>Veteran Freedom Activist</div>
+
+                    <div>12:10-12:25</div>	
+                    <div class="font-bold">Merve Gaskin</div>	
+                    <div>The Tribe of Leicestershire</div>
+
+                    <div>12:25-13:00</div>	
+                    <div class="font-bold">Dr Teck Khong</div>	
+                    <div>Retired GP, Alliance for Democracy & Freedom</div>
+
+                    <div>13:00-14:00</div>	
+
+                    <div>break</div>	
+
+                    <div>14:00-14:35</div>	
+                    <div class="font-bold">John O’Looney</div>	
+                    <div>The funeral director unafraid to tell the truth</div>
+
+                    <div>14:50-15:25</div>	
+                    <div class="font-bold">Dr Mohammed Adil</div>	
+                    <div>Censored Doctor re-platformed</div>
+
+                    <div>15:25-16:25</div>	
+
+                    <div>break</div>	
+
+                    <div>16:25-16:50</div>	
+                    <div class="font-bold">Fiona Rose Diamond</div>	
+                    <div>“Truth Be Told” supporting the vax damaged</div>
+
+                    <div>16:50-17:25</div>	
+                    <div class="font-bold">Andrew Bridgen</div>	
+                    <div>UK MP standing for truth & justice</div>
+
+                    <div>17:25-17:55</div>	
+
+                    <div>break</div>	
+
+                    <div>17:55-18:40</div>	
+                    <div class="font-bold">The Lookout</div>	
+                    <div>Blending melodic storytelling folk and old skool reggae rhythms</div>
+
+                    <div>18:55-19:40</div>	
+                    <div class="font-bold">Tommy Coyle</div>	
+                    <div>Finely craft songs with prescient lyrics</div>
+
+                    <div>19:55-20:40</div>	
+                    <div class="font-bold">Ryan Sanders</div>	
+                    <div>Pro-freedom, high energy grime rap</div>
+
+                    <div>20:55-21:40</div>	
+                    <div class="font-bold">Out of Karma</div>	
+                    <div>Divine rebel vibes. Dub rock reggae band</div>
+
+                    <div>21:40-00:10</div>	
+                    <div class="font-bold">DJ Rasta Mikey</div>	
+                    <div>Reggae sounds</div>
+
+                </div>
 
             </div>
 
-            <img :src="posterUrl" />
 
-            <div class="mr-2 my-8 w-full">
-                <a target="_blank" :href="buyTicketsUrl">
-                    <ButtonCnt class="text-uppercase w-full text-3xl" :text="buyText.toUpperCase()" />
-                </a>
-            </div>
-      
+
 
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
@@ -74,6 +163,18 @@
                     </a>
                 </div>
             </div>
+
+
+
+            <img class="my-8" :src="posterUrl" />
+
+            <div class="mr-2 my-8 w-full">
+                <a target="_blank" :href="buyTicketsUrl">
+                    <ButtonCnt class="text-uppercase w-full text-3xl" :text="buyText.toUpperCase()" />
+                </a>
+            </div>
+      
+
                 
             <div class="lg:w-96 m-auto py-3">
                 <RouterLink :to="{ name: 'Home' }">
@@ -102,26 +203,12 @@ const buyText = "Buy Freedom Fest Tickets";
   const buyTicketsUrl = "https://app.workshop-angel.com/form.php?h=1&t=0&e=0e59fb1a199e76cc";
   
   const gallery = [
-  'DSC_0444.jpg',
   'DSC_0092.jpg',
   'DSC_0063.jpg',
   'DSC_0004.jpeg',
   'DSC_0009.jpg',
   'DSC_0199.jpg',
-  'gate1.jpeg',
-  'gate2.jpeg',
-  'gate3.jpeg',
-  'gate4.jpeg',
-  'gate5.jpeg',
-  'gate6.jpeg',
-  'gate7.jpeg',
   'gate8.jpeg',
-  'gate9.jpeg',
-  'gate10.jpeg',
-  'gate11.jpeg',
-  'gate12.jpeg',
-  'gate13.jpeg',
-  'gate14.jpeg',
 
 
   'DSC_0560.jpg',
