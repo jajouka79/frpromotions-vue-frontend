@@ -198,24 +198,12 @@
 
                     <div class="mt-4">21:00-21:45</div>	
                     <div class="font-bold">The Mutineers</div>	
-                    <div>Indian ragas with sitar blues rock</div>
+                    <div>Leicester rebel folk reggae soul mutineers</div>
 
                     <div class="mt-4">22:00-00:30</div>	
                     <div class="font-bold">Jam / Open Mic</div>	
 
                 </div>
-
-12:00-12:20	Reiss Thompson	Brotherhood Legion, Mental health through fitness
-12:20-13:20	Break	
-13:20-14:20	Mark Attwood	Popular podcast host, punk poet & stand up comic
-14:35-15:35	?	Mystery speaker
-15:50-16:50	Daz Nez	Founder of Light paper, singer/songwriter
-17:20-18:00	Tri-Subversion	Leicester Anti-Reset Punk Rock
-18:00-19:00	Break	
-19:00-19:45	Moonjuice	A mix of subterranean grooves, northern light and anti-“new normal” blues
-20:00-20:45	Omnivibes	Indian ragas with sitar blues rock
-21:00-21:45	?	Mystery act
-22:00-00:30	Jam / Open Mic	
 
             </div>
 
@@ -225,12 +213,17 @@
                 <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/09OcMmCP-j0?si=tqaYjnd571VUA-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
  
-
-
             <div class="mb-8 relative pb-[56.25%]">
                 <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
+            <div class="mb-8 relative pb-[56.25%]">
+                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=JKaVFdVk4HOXKuCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+            <div class="mb-8 relative pb-[56.25%]">
+                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=Zrn0SlGHAMNHQUSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
 
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
