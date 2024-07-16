@@ -25,48 +25,47 @@
             </div>
 
             <div class="p-3 text-center">
-                <p class="pb-3 uppercase mt-8"><b>The Schedule is Now Available</b></p>
-                <p class="pb-3"><b>More updates coming soon, keep checking back ....</b></p>
 
-                <p class="pb-3 mt-8">We are pleased to announce the the 3rd annual Freedom Fest!</p>
+                <div class="text-xl">The Schedule is Now Available</div>
+
+                <div class="pb-3"><b>More updates coming soon, keep checking back ....</b></div>
+
+                <div class="pb-3 mt-8">We are pleased to announce the the 3rd annual Freedom Fest!</div>
                 
-                <p class="pb-3">Educational speakers and conscious music artists in a big Marquee in a field just over the road from the riverside pub
-                     The Gate Hangs Well in Syston, Leicestershire.</p>
+                <div class="pb-3">Educational speakers and conscious music artists in a big Marquee in a field just over the road from the riverside pub
+                     The Gate Hangs Well in Syston, Leicestershire.</div>
 
-                <p class="pb-3">People gather to seek information on the political, financial, health and social issues facing us in these tumultuous times,
-                     discuss possible solutions and to celebrate the rich resistance culture that has developed over the past few years.</p>
+                <div class="pb-3">People gather to seek information on the political, financial, health and social issues facing us in these tumultuous times,
+                     discuss possible solutions and to celebrate the rich resistance culture that has developed over the past few years.</div>
                 
-                <p class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</p>
+                <div class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</div>
 
-                <p class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions and much more.</p>
+                <div class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions and much more.</div>
                 
-                <p class="pb-3">Firepit, fire display, singarounds, drum circles, so bring your musical instruments!</p>
+                <div class="pb-3">Firepit, fire display, singarounds, drum circles, so bring your musical instruments!</div>
 
-                <p class="pb-3">The sound from the marquee stops at 12:30</p>
+                <div class="pb-3">The sound from the marquee stops at 12:30</div>
 
-                <p class="pb-3">Well behaved dogs on leads are welcome</p>
+                <div class="pb-3">Well behaved dogs on leads are welcome</div>
 
-                <p class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></p>
-
-
-                <h2 class="text-xl my-8 font-bold">PARKING</h2>
-
-                <p class="pb-3">There's a field for car parking, the field closest to the entrance.</p>
+                <div class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></div>
 
 
+                <div class="text-xl my-8 font-bold">PARKING</div>
 
-                <h2 class="text-xl my-8 font-bold">CAMPING</h2>
-
-                <p class="pb-3">Campers can set up from 10am on Friday 2nd August.</p>
-
-                <p class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</p>
+                <div class="pb-3">There's a field for car parking, the field closest to the entrance.</div>
 
 
+
+                <div class="text-xl my-8 font-bold">CAMPING</div>
+
+                <div class="pb-3">Campers can set up from 10am on Friday 2nd August.</div>
+
+                <div class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</div>
 
                 <div class="font-bold text-xl my-8">SCHEDULE</div>
 
                 <div>
-
                     <h3 class="font-bold">FRIDAY 2ND AUGUST</h3>
 
                     <div class="mt-4">17:00-18:00</div>
@@ -209,22 +208,27 @@
 
 
 
-            <div class="mb-8 relative pb-[56.25%]">
-                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/09OcMmCP-j0?si=tqaYjnd571VUA-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
- 
-            <div class="mb-8 relative pb-[56.25%]">
-                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <div class="grid grid-cols-2 gap-4">
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/09OcMmCP-j0?si=tqaYjnd571VUA-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+    
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=JKaVFdVk4HOXKuCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/qiJxJOwcsWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            
             </div>
 
-            <div class="mb-8 relative pb-[56.25%]">
-                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=JKaVFdVk4HOXKuCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-
-            <div class="mb-8 relative pb-[56.25%]">
-                <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=Zrn0SlGHAMNHQUSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-
+            
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
                     <a :href="`${globals.s3Bucket}/${photo}`" target="_blank">

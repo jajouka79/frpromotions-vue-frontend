@@ -3,7 +3,7 @@
         <strong>Current route path:</strong> {{ $route.fullPath }}
       </p> -->
 
-      <main>
+      <main class="text-lg">
         
         <RouterView />
       </main>
@@ -13,5 +13,6 @@
 
 <script setup>
 
-import FooterCnt from './components/FooterCnt.vue'
+//import FooterCnt from './components/FooterCnt.vue'
+
 </script>
