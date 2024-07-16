@@ -1,4 +1,4 @@
-import { createMemoryHistory, createRouter } from 'vue-router'
+import { createWebHashHistory, createRouter } from 'vue-router'
 import HomePage from './pages/HomePage.vue'
 import FreedomFestPage from './pages/FreedomFestPage.vue'
 
@@ -16,8 +16,9 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createMemoryHistory(),
+  history: createWebHashHistory(),
   routes,
 })
+
 
 export default router

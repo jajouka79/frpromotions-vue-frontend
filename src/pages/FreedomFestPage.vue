@@ -82,7 +82,7 @@
                     <div class="font-bold">Jack & Rhett</div>
                     <div>Soulful songs from two Leicester music legends</div>
                     <div class="mt-4">21:45-22:15</div>
-                    <div class="font-bold">break</div>	
+                    <div class="font-bold">Break</div>	
                     <div class="mt-4">22:15-23:15</div>
                     <div class="font-bold">Matt Hoy</div>
                     <div>Former singer of UB40</div>
@@ -110,7 +110,7 @@
 
                     <div class="mt-4">13:00-14:00</div>	
 
-                    <div class="font-bold">break</div>	
+                    <div class="font-bold">Break</div>	
 
                     <div class="mt-4">14:00-14:35</div>	
                     <div class="font-bold">John O’Looney</div>	
@@ -122,7 +122,7 @@
 
                     <div class="mt-4">15:25-16:25</div>	
 
-                    <div class="font-bold">break</div>	
+                    <div class="font-bold">Break</div>	
 
                     <div class="mt-4">16:25-16:50</div>	
                     <div class="font-bold">Fiona Rose Diamond</div>	
@@ -134,7 +134,7 @@
 
                     <div class="mt-4">17:25-17:55</div>	
 
-                    <div class="font-bold">break</div>	
+                    <div class="font-bold">Break</div>	
 
                     <div class="mt-4">17:55-18:40</div>	
                     <div class="font-bold">The Lookout</div>	
@@ -158,6 +158,65 @@
 
                 </div>
 
+
+
+                <div class="my-8">
+                    <h3 class="font-bold">SUNDAY 4TH AUGUST</h3>
+
+                    <div class="mt-4">12:00-12:20</div>	
+                    <div class="font-bold">Reiss Thompson</div>	
+                    <div>Brotherhood Legion, Mental health through fitness</div>
+
+                    <div class="mt-4">12:20-13:20</div>	
+                    <div class="font-bold">Break</div>	
+
+                    <div class="mt-4">13:20-14:20</div>	
+                    <div class="font-bold">Mark Attwood</div>	
+                    <div>Popular podcast host, punk poet & stand up comic</div>
+
+                    <div class="mt-4">14:35-15:35</div>	
+                    <div class="font-bold">Mystery speaker</div>	
+
+                    <div class="mt-4">15:50-16:50</div>	
+                    <div class="font-bold">Daz Nez</div>	
+                    <div>Founder of Light paper, singer/songwriter</div>
+
+                    <div class="mt-4">17:20-18:00</div>	
+                    <div class="font-bold">Tri-Subversion</div>	
+                    <div>Leicester Anti-Reset Punk Rock</div>
+
+                    <div class="mt-4">18:00-19:00</div>	
+                    <div class="font-bold">Break</div>	
+
+                    <div class="mt-4">19:00-19:45</div>	
+                    <div class="font-bold">Moonjuice</div>	
+                    <div>A mix of subterranean grooves, northern light and anti-“new normal” blues</div>
+
+                    <div class="mt-4">20:00-20:45</div>	
+                    <div class="font-bold">Omnivibes</div>	
+                    <div>Indian ragas with sitar blues rock</div>
+
+                    <div class="mt-4">21:00-21:45</div>	
+                    <div class="font-bold">The Mutineers</div>	
+                    <div>Indian ragas with sitar blues rock</div>
+
+                    <div class="mt-4">22:00-00:30</div>	
+                    <div class="font-bold">Jam / Open Mic</div>	
+
+                </div>
+
+12:00-12:20	Reiss Thompson	Brotherhood Legion, Mental health through fitness
+12:20-13:20	Break	
+13:20-14:20	Mark Attwood	Popular podcast host, punk poet & stand up comic
+14:35-15:35	?	Mystery speaker
+15:50-16:50	Daz Nez	Founder of Light paper, singer/songwriter
+17:20-18:00	Tri-Subversion	Leicester Anti-Reset Punk Rock
+18:00-19:00	Break	
+19:00-19:45	Moonjuice	A mix of subterranean grooves, northern light and anti-“new normal” blues
+20:00-20:45	Omnivibes	Indian ragas with sitar blues rock
+21:00-21:45	?	Mystery act
+22:00-00:30	Jam / Open Mic	
+
             </div>
 
 
@@ -171,6 +230,8 @@
             <div class="mb-8 relative pb-[56.25%]">
                 <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
+
+
             <div class="grid grid-cols-4 gap-4">
                 <div v-for="(photo, index) in gallery" :key="index">
                     <a :href="`${globals.s3Bucket}/${photo}`" target="_blank">
@@ -209,6 +270,10 @@
 import ButtonCnt from '../components/ButtonCnt.vue' ;
 import Image from '../components/ImageCnt.vue' ;
 import { inject } from 'vue'
+
+import {scrollToTop} from "../../data/helpers/scroll"
+
+scrollToTop();
 
 const globals = inject('globals')
 
