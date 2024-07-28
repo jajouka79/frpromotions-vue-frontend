@@ -40,7 +40,7 @@
                 
                 <div class="pb-3">We have a variety of engaging and informative speakers and an impressive line-up of conscious music artists & DJs.</div>
 
-                <div class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions and much more.</div>
+                <div class="pb-3">We have food stalls, organic juices, vendors of all kinds, excercise & breathing sessions.</div>
                 
                 <div class="pb-3">Firepit, fire display, singarounds, drum circles, so bring your musical instruments!</div>
 
@@ -51,22 +51,33 @@
                 <div class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></div>
 
 
+                <div class="text-xl my-8 font-bold">PAYMENT</div>
+
+                <div class="pb-3">You can buy tickets online at www.frpromotions.co.uk or you can pay at the gate, if you are 
+                    paying on the door cash is preferred. Please be aware that its better for us if you buy the tickets from 
+                    the website beforehand so we can see the numbers of attendees and so we can pay for the infrastructre 
+                    of the festival.</div>
+
+                    <div class="text-xl my-8 font-bold">LOCATION</div>
+
+                <div class="pb-3">Contrary to the festival poster the event is not at the Gate Hangs Well, we have a much bigger space 
+                    in a field just over the road. The postcode is LE74UZ. Lookout for FF24 signs to find the entrance.</div>
+
                 <div class="text-xl my-8 font-bold">PARKING</div>
 
-                <div class="pb-3">There's a field for car parking, the field closest to the entrance.</div>
-
-
+                <div class="pb-3">There's a field for car parking, the field closest to the entrance. Festival crew will be overseeing the 
+                    parking so that no-one will be blocked in and can leave the site if they need to go away and come back.</div>
 
                 <div class="text-xl my-8 font-bold">CAMPING</div>
 
-                <div class="pb-3">Campers can set up from 10am on Friday 2nd August.</div>
-
-                <div class="pb-3">Portaloos, drinking water will be provided. There will be no hot showers.</div>
+                <div class="pb-3">Campers can set up from 10am on Friday 2nd August. We have a camping field and each 
+                    person will need a ticket that includes camping. Portaloos and water will be provided. 
+                    Unfortunately there will be no showers this year.</div>
 
                 <div class="font-bold text-xl my-8">SCHEDULE</div>
 
                 <div>
-                    <h3 class="font-bold">FRIDAY 2ND AUGUST</h3>
+                    <div class="font-bold text-lg">FRIDAY 2ND AUGUST</div>
 
                     <div class="mt-4">17:00-18:00</div>
                     <div class="font-bold">Dave Voce</div>
@@ -93,7 +104,7 @@
 
 
                 <div class="my-8">
-                    <h3 class="font-bold">SATURDAY 3RD AUGUST</h3>
+                    <div class="font-bold text-lg">SATURDAY 3RD AUGUST</div>
 
                     <div class="mt-4">12:00-12:10</div>	
                     <div class="font-bold">Mick the Ticket</div>	
@@ -160,7 +171,7 @@
 
 
                 <div class="my-8">
-                    <h3 class="font-bold">SUNDAY 4TH AUGUST</h3>
+                    <div class="font-bold text-lg">SUNDAY 4TH AUGUST</div>
 
                     <div class="mt-4">12:00-12:20</div>	
                     <div class="font-bold">Reiss Thompson</div>	
