@@ -26,9 +26,12 @@
 
             <div class="p-3 text-center">
 
-                <div class="text-xl">The Schedule is Now Available</div>
+                <div class="italic text-red-600 my-5 font-bold">Last updated Sunday 28th July, 10:00am</div>
 
-                <div class="pb-3"><b>More updates coming soon, keep checking back ....</b></div>
+                <div class="pb-3 font-bold">More updates coming soon, keep checking back here</div>
+
+                <div class="text-xl">The schedule is now available, see below</div>
+
 
                 <div class="pb-3 mt-8">We are pleased to announce the the 3rd annual Freedom Fest!</div>
                 
@@ -48,7 +51,6 @@
 
                 <div class="pb-3">Well behaved dogs on leads are welcome</div>
 
-                <div class="pb-3 my-8"><i>Send an email at frpromotions@protonmail.com for alternative payment methods.</i></div>
 
 
                 <div class="text-xl my-8 font-bold">PAYMENT</div>
@@ -56,7 +58,12 @@
                 <div class="pb-3">You can buy tickets online at www.frpromotions.co.uk or you can pay at the gate, if you are 
                     paying on the door cash is preferred. Please be aware that its better for us if you buy the tickets from 
                     the website beforehand so we can see the numbers of attendees and so we can pay for the infrastructre 
-                    of the festival.</div>
+                    of the festival.
+
+                </div>
+
+                <div class="pb-3 my-8"><i>Send an email to frpromotions@protonmail.com for alternative payment methods.</i></div>
+
 
                     <div class="text-xl my-8 font-bold">LOCATION</div>
 
