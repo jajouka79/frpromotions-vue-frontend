@@ -28,11 +28,12 @@
 
                 <div class="italic text-red-600 my-5 font-bold">Last updated Monday 29th July, 10:00am</div>
 
-                <div class="italic text-red-600 mt-3 font-bold">Latest update</div>
+                <div class="italic text-red-600 my-4 font-bold">Latest update</div>
 
-                <div class="pb-3 mb-8">Unfortunately Mark Attwood has had to cancel</div>
+                <div class=" mb-4">Unfortunately Mark Attwood has had to cancel</div>
+                <div class=" mb-8">The water pipe has burst in the field so there's no tap for drinking water.</div>
 
-                <div class="pb-3 font-bold">More updates coming soon, keep checking back here</div>
+                <div class="mb-8 font-bold">More updates coming soon, keep checking back here</div>
 
                 <div class="text-xl">The schedule is now available, see below</div>
 
