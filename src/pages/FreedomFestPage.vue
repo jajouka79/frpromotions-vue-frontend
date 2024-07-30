@@ -26,7 +26,11 @@
 
             <div class="p-3 text-center">
 
-                <div class="italic text-red-600 my-5 font-bold">Last updated Sunday 28th July, 10:00am</div>
+                <div class="italic text-red-600 my-5 font-bold">Last updated Monday 29th July, 10:00am</div>
+
+                <div class="italic text-red-600 mt-3 font-bold">Latest update</div>
+
+                <div class="pb-3 mb-8">Unfortunately Mark Attwood has had to cancel</div>
 
                 <div class="pb-3 font-bold">More updates coming soon, keep checking back here</div>
 
@@ -79,7 +83,7 @@
 
                 <div class="pb-3">Campers can set up from 10am on Friday 2nd August. We have a camping field and each 
                     person will need a ticket that includes camping. Portaloos and water will be provided. 
-                    Unfortunately there will be no showers this year.</div>
+                    <b>Unfortunately there will be no showers this year</b>.</div>
 
                 <div class="font-bold text-xl my-8">SCHEDULE</div>
 
