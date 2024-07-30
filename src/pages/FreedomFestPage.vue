@@ -67,6 +67,16 @@
 
                 </div>
 
+
+
+                <div class="text-xl my-8 font-bold">FOOD</div>
+
+                <div class="pb-3">There will be a food vendor serving breakfasts, burgers, loaded chips, teas & coffees & more.
+                    The Gate Hang Well Pub is just a short walk away and they have lots on their menu, jack potatoes, pizza, roast dinner.
+                </div>
+
+
+
                 <div class="pb-3 my-8"><i>Send an email to frpromotions@protonmail.com for alternative payment methods.</i></div>
 
 
