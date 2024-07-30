@@ -28,15 +28,15 @@
 
                 <div class="italic text-red-600 my-5 font-bold">Last updated Monday 29th July, 10:00am</div>
 
-                <div class="italic text-red-600 my-4 font-bold">Latest update</div>
+                <div class="italic text-red-600 my-4 font-bold">Latest updates</div>
 
                 <div class=" mb-4">Unfortunately Mark Attwood & Ryan Sanders have had to cancel. </div>
-                
+
                 <div class=" mb-4">Guy Surtees, Blues & country singer has been added to the bill, he will play Saturday 3rd @ 8pm.</div>
 
                 <div class=" mb-8">The water pipe has burst in the field so there's no tap for drinking water.</div>
 
-                <div class="mb-8 font-bold">More updates coming soon, keep checking back here</div>
+                <div class="my-8 font-bold">More updates coming soon, keep checking back here</div>
 
                 <div class="text-xl">The schedule is now available, see below</div>
 
