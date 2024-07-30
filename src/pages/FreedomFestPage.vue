@@ -65,6 +65,8 @@
                     the website beforehand so we can see the numbers of attendees and so we can pay for the infrastructre 
                     of the festival.
 
+                    <div class="mt-8 mb-4"><i>Send an email to frpromotions@protonmail.com for alternative payment methods.</i></div>
+
                 </div>
 
 
@@ -77,7 +79,6 @@
 
 
 
-                <div class="pb-3 my-8"><i>Send an email to frpromotions@protonmail.com for alternative payment methods.</i></div>
 
 
                     <div class="text-xl my-8 font-bold">LOCATION</div>
