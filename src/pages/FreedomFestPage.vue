@@ -59,6 +59,17 @@
 
                 <div class="pb-3">Well behaved dogs on leads are welcome</div>
 
+                <div class="text-xl my-8 font-bold">WHEN YOU ARRIVE</div>
+
+                <div class="pb-3">
+                    
+                    When you arrive at the festival site you will be show where to park, then go to main events area gate to get your wristbands.
+                    You can buy wristbands there or if you have bought your ticket online we will check your name on the list and give you your wristbands.
+                </div>
+                <div class="pb-3">
+                    
+                    If you already have bought tickets online then we will check your names and give you your wristbands, there are no tickets.
+                </div>
 
 
                 <div class="text-xl my-8 font-bold">PAYMENT</div>
@@ -181,8 +192,8 @@
                     <div>Finely craft songs with prescient lyrics</div>
 
                     <div class="mt-4">19:55-20:40</div>	
-                    <div class="font-bold">Ryan Sanders</div>	
-                    <div>Pro-freedom, high energy grime rap</div>
+                    <div class="font-bold">Guy Surtees</div>	
+                    <div>Country / Blues singer songwriter</div>
 
                     <div class="mt-4">20:55-21:40</div>	
                     <div class="font-bold">Out of Karma</div>	
