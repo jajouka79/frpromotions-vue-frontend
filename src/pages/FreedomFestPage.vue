@@ -26,17 +26,20 @@
 
             <div class="p-3 text-center">
 
-                <div class="italic text-red-600 my-5 font-bold">Last updated Monday 29th July, 10:00am</div>
+                <div class="bg-slate-200 my-8 px-2 py-1">
+                    <div class="italic text-red-600 my-5 font-bold">Last updated Monday 29th July, 10:00am</div>
 
-                <div class="italic text-red-600 my-4 font-bold">Latest updates</div>
+                    <div class="italic text-red-600 my-4 font-bold">Latest updates</div>
 
-                <div class=" mb-4">Unfortunately Mark Attwood & Ryan Sanders have had to cancel. </div>
+                    <div class=" mb-4">Unfortunately Mark Attwood & Ryan Sanders have had to cancel. </div>
 
-                <div class=" mb-4">Guy Surtees, Blues & country singer has been added to the bill, he will play Saturday 3rd @ 8pm.</div>
+                    <div class=" mb-4">Guy Surtees, Blues & country singer has been added to the bill, he will play Saturday 3rd @ 8pm.</div>
 
-                <div class=" mb-8">The water pipe has burst in the field so there's no tap for drinking water.</div>
+                    <div class=" mb-8">The water pipe has burst in the field so there's no tap for drinking water. We will be handing out bottles of water, but <b>Stock up on water</b></div>
 
-                <div class="my-8 font-bold">More updates coming soon, keep checking back here</div>
+                    <div class="my-8 font-bold">More updates coming soon, keep checking back here</div>
+
+                </div>
 
                 <div class="text-xl">The schedule is now available, see below</div>
 
@@ -210,16 +213,9 @@
                 <div class="my-8">
                     <div class="font-bold text-lg">SUNDAY 4TH AUGUST</div>
 
-                    <div class="mt-4">12:00-12:20</div>	
-                    <div class="font-bold">Reiss Thompson</div>	
-                    <div>Brotherhood Legion, Mental health through fitness</div>
-
-                    <div class="mt-4">12:20-13:20</div>	
-                    <div class="font-bold">Break</div>	
-
-                    <div class="mt-4">13:20-14:20</div>	
+                    <!-- <div class="mt-4">13:20-14:20</div>	
                     <div class="font-bold">Mark Attwood</div>	
-                    <div>Popular podcast host, punk poet & stand up comic</div>
+                    <div>Popular podcast host, punk poet & stand up comic</div> -->
 
                     <div class="mt-4">14:35-15:35</div>	
                     <div class="font-bold">Mystery speaker</div>	
