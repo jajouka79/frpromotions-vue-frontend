@@ -31,7 +31,7 @@
 
                     <div class="italic text-red-600 my-4 font-bold">Latest updates</div>
 
-                    <div class=" mb-4">Unfortunately Mark Attwood & Ryan Sanders have had to cancel. </div>
+                    <div class=" mb-4">Unfortunately John O'looney, Mark Attwood & Ryan Sanders have had to cancel. </div>
 
                     <div class=" mb-4">Guy Surtees, Blues & country singer has been added to the bill, he will play Saturday 3rd @ 8pm.</div>
 
