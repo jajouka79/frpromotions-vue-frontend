@@ -62,6 +62,14 @@
 
                 <div class="pb-3">Well behaved dogs on leads are welcome</div>
 
+
+
+                <div class="text-xl my-8 font-bold">LOCATION</div>
+
+<div class="pb-3">Contrary to the festival poster the event is not at the Gate Hangs Well, we have a much bigger space 
+    in a field just over the road. The postcode is LE74UZ. Lookout for FF24 signs to find the entrance.</div>
+
+    <img src="../assets/img/ffest-map.jpg" class="my-8" />
                 <div class="text-xl my-8 font-bold">WHEN YOU ARRIVE</div>
 
                 <div class="pb-3">
@@ -97,11 +105,6 @@
 
 
 
-
-                    <div class="text-xl my-8 font-bold">LOCATION</div>
-
-                <div class="pb-3">Contrary to the festival poster the event is not at the Gate Hangs Well, we have a much bigger space 
-                    in a field just over the road. The postcode is LE74UZ. Lookout for FF24 signs to find the entrance.</div>
 
                 <div class="text-xl my-8 font-bold">PARKING</div>
 
@@ -255,12 +258,28 @@
             <div class="grid grid-cols-2 gap-4">
 
                 <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/pJKK0mWZ2fA?si=4lmJfkgUaefKbPdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/GLGr_QeL1_U?si=GNR6GiKvGaPIdAK2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/C6Q15cLjsSw?si=n2lhy610HF44kgr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
+                    <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/An5jXHmt-tU?si=YIb-InnYYb325tiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+
+                <div class="mb-8 relative pb-[56.25%]">
                     <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/09OcMmCP-j0?si=tqaYjnd571VUA-HC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
     
-                <div class="mb-8 relative pb-[56.25%]">
+                <!-- <div class="mb-8 relative pb-[56.25%]">
                     <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/fxjwPx2SmM0?si=ls9tuJj7bzZYfbIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
+                </div> -->
 
                 <div class="mb-8 relative pb-[56.25%]">
                     <iframe class="w-full h-full absolute" width="560" height="315" src="https://www.youtube.com/embed/FJ_KEgV_8qs?si=JKaVFdVk4HOXKuCz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
