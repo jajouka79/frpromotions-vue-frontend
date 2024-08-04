@@ -242,11 +242,11 @@
                     <div class="font-bold">Omnivibes</div>	
                     <div>Indian ragas with sitar blues rock</div>
 
-                    <div class="mt-4">21:00-21:45</div>	
+                    <!-- <div class="mt-4">21:00-21:45</div>	
                     <div class="font-bold">The Mutineers</div>	
-                    <div>Leicester rebel folk reggae soul mutineers</div>
+                    <div>Leicester rebel folk reggae soul mutineers</div> -->
 
-                    <div class="mt-4">22:00-00:30</div>	
+                    <div class="mt-4">21:00-00:30</div>	
                     <div class="font-bold">Jam / Open Mic</div>	
 
                 </div>
